@@ -1,8 +1,8 @@
 
 <h1 align="center">
   
-![Title](./title-sm_light.png#gh-light-mode-only)
-![Title](./title-sm_dark.png#gh-dark-mode-only)
+![Title](https://raw.githubusercontent.com/Avdan-OS/.github/main/profile/title-sm_light.png#gh-light-mode-only)
+![Title](https://raw.githubusercontent.com/Avdan-OS/.github/main/profile/title-sm_dark.png#gh-dark-mode-only)
 
 </h1>
 
