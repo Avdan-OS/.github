@@ -50,7 +50,7 @@ Most people got migrated to the back up server (goos came in clutch, thank you g
  
  ### Why shouldn't we join the old server?
  
- The whole old management team (including Simon, current leader of the old and dying server) has a foundamental flaw in it, and we are trying to keep the transparency and solve it in the new server, whereas Simon in the old server made limited explanation and is trying to cover the whole incident up. 
+ The whole old management team (including Simon, current leader of the old and dying server) has a foundamental flaw in it, and we admit the fault and move on. We are trying to be transparent and solve administration issue in the new server, whereas Simon in the old server made limited explanation and is trying to cover the whole incident up. Many member has lost trust with the old server, hence why we stayed in the new server.
  
  <hr>
   
