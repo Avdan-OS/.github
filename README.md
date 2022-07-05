@@ -52,10 +52,6 @@ Most people got migrated to the back up server (goos came in clutch, thank you g
  
  The whole old management team (including Simon, current leader of the old and dying server) has a foundamental flaw in it, and we are trying to keep the transparency and solve it in the new server, whereas Simon in the old server made limited explanation and is trying to cover the whole incident up. 
  
- ### Vasilisa if you're reading this
- 
- We're speaking as the community, developers, and friends. You have seen the information above. We will welcome you. We miss you Vasilisa, we truely do. The whole team (except for Simon) is in the new server, and we are all here waiting for you.
- 
  <hr>
   
 </details>
