@@ -52,6 +52,10 @@ Most people got migrated to the back up server (goos came in clutch, thank you g
  
  The whole old management team (including Simon, current leader of the old and dying server) has a fundamental flaw in it, and we admit the fault and move on. We are trying to be transparent and solve administration issue in the new server, whereas Simon in the old server made limited explanation and is trying to cover the whole incident up. Many members have lost trust in the old server, hence why we stayed in the new server. If you're in the old server, we recommmend you to leave and migrate to the new one.
  
+ ### To Vasilisa
+ 
+ We understand that you have started your new journey, and we are happy for you. We miss you, and we will welcome you if you decides to come back. Godspeed Vasilisa.
+ 
  <hr>
   
 </details>
